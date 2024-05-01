@@ -1,5 +1,5 @@
 ## ViTDa Project
-Here is my ViTDa Project
+Here is the ViTDa project, pulled lots of code from lots of different places
 Parker Mei
 
 ## Reference
